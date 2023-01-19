@@ -1,0 +1,57 @@
+.header_up{
+    text-align: center;
+    color: darkorchid;
+    font-family: "Gill Sans", sans-serif;
+}
+.header_2{
+    text-align: center;
+    color: aquamarine;
+    font-family: "Gill Sans", sans-serif;
+}
+.header_3{
+    text-align: left;
+    font-family: "Gill Sans", sans-serif;
+}
+.main{
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+.image_guy{
+    height: 240px;
+    width: 120px;
+}
+.image_school{
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    font-family: "Gill Sans", sans-serif;
+}
+.hyperlink{
+    color: crimson;
+    font-family: "Gill Sans", sans-serif;
+}
+.hyperlink:hover{
+    color: brown;
+    font-family: "Gill Sans", sans-serif;
+}
+.Mtable,
+.Mtd {
+    border: 2px solid #123;
+}
+.Mthead,
+.Mtfoot {
+    background-color: #333;
+    color: #fff
+}
+.big_cyan{
+    text-align: center;
+    color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.main_table_low{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
